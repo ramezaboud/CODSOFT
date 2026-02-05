@@ -115,7 +115,7 @@ cd CODSOFT
 
 2. Install required packages:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn nltk imbalanced-learn
+pip install -r requirements.txt
 ```
 
 3. Download NLTK data (if needed):
