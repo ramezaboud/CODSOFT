@@ -60,8 +60,8 @@ Thumbs.db
 *.log
 
 # Large Data Files (>100MB - GitHub limit)
-fraudTrain.csv
-fraudTest.csv
-train_data.txt
-test_data.txt
-test_data_solution.txt
+Task1_Movie_Genre_Classification/train_data.txt
+Task1_Movie_Genre_Classification/test_data.txt
+Task1_Movie_Genre_Classification/test_data_solution.txt
+Task2_Credit_Card_Fraud_Detection/fraudTrain.csv
+Task2_Credit_Card_Fraud_Detection/fraudTest.csv
