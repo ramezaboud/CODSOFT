@@ -137,16 +137,19 @@ jupyter notebook
 
 ## 📊 Datasets
 
-Due to GitHub file size limits, some datasets need to be downloaded separately:
+All datasets need to be downloaded from Kaggle and placed in their respective task folders:
 
-| Task | Dataset | Download Link |
-|------|---------|---------------|
-| Task 1 | Movie Genre Dataset | [Kaggle - Genre Classification Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb) |
-| Task 2 | Credit Card Fraud | [Kaggle - Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection) |
-| Task 3 | Customer Churn | Included in repo (`Churn_Modelling.csv`) |
-| Task 4 | SMS Spam | Included in repo (`spam.csv`) |
+| Task | Dataset | Download Link | Place in Folder |
+|------|---------|---------------|-----------------|
+| Task 1 | Movie Genre Dataset | [Kaggle - Genre Classification Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb) | `Task1_Movie_Genre_Classification/` |
+| Task 2 | Credit Card Fraud | [Kaggle - Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection) | `Task2_Credit_Card_Fraud_Detection/` |
+| Task 3 | Customer Churn | [Kaggle - Churn Modelling Dataset](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling) | `Task3_Customer_Churn_Prediction/` |
+| Task 4 | SMS Spam | [Kaggle - SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) | `Task4_SMS_Spam_Detection/` |
 
-> **Note:** After downloading, place the dataset files in the root folder of the project.
+### Download Instructions:
+1. Click on the download link for each dataset
+2. Download the dataset files from Kaggle
+3. Extract and place the files in the corresponding task folder
 
 ---
 

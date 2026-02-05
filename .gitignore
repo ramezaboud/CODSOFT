@@ -59,9 +59,15 @@ Thumbs.db
 # Logs
 *.log
 
-# Large Data Files (>100MB - GitHub limit)
-Task1_Movie_Genre_Classification/train_data.txt
-Task1_Movie_Genre_Classification/test_data.txt
-Task1_Movie_Genre_Classification/test_data_solution.txt
-Task2_Credit_Card_Fraud_Detection/fraudTrain.csv
-Task2_Credit_Card_Fraud_Detection/fraudTest.csv
+# Data Files - Download from Kaggle (see README.md)
+# Task 1
+Task1_Movie_Genre_Classification/*.txt
+
+# Task 2
+Task2_Credit_Card_Fraud_Detection/*.csv
+
+# Task 3
+Task3_Customer_Churn_Prediction/*.csv
+
+# Task 4
+Task4_SMS_Spam_Detection/*.csv
