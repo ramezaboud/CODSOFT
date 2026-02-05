@@ -16,7 +16,7 @@ This repository contains my completed tasks for the **CODSOFT Machine Learning I
 
 ## 📁 Task 1: Movie Genre Classification
 
-**File:** `task_1.ipynb`
+**File:** `Movie_Genre_Classification.ipynb`
 
 A machine learning model that classifies movies into different genres based on their title and description.
 
@@ -34,7 +34,7 @@ A machine learning model that classifies movies into different genres based on t
 
 ## 📁 Task 2: Credit Card Fraud Detection
 
-**File:** `task_2.ipynb`
+**File:** `Credit_Card_Fraud_Detection.ipynb`
 
 A classification model to detect fraudulent credit card transactions.
 
@@ -56,7 +56,7 @@ A classification model to detect fraudulent credit card transactions.
 
 ## 📁 Task 3: Customer Churn Prediction
 
-**File:** `task_3.ipynb`
+**File:** `Customer_Churn_Prediction.ipynb`
 
 A predictive model to identify customers who are likely to churn (leave the service).
 
@@ -77,7 +77,7 @@ A predictive model to identify customers who are likely to churn (leave the serv
 
 ## 📁 Task 4: SMS Spam Detection
 
-**File:** `task_4.ipynb`
+**File:** `SMS_Spam_Detection.ipynb`
 
 A text classification model to detect spam SMS messages.
 
