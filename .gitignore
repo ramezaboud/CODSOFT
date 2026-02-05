@@ -58,3 +58,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Large Data Files (>100MB - GitHub limit)
+fraudTrain.csv
+fraudTest.csv
+train_data.txt
+test_data.txt
+test_data_solution.txt

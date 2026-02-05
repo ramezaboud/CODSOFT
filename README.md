@@ -118,7 +118,9 @@ cd CODSOFT
 pip install -r requirements.txt
 ```
 
-3. Download NLTK data (if needed):
+3. Download the datasets (see [Datasets](#-datasets) section below)
+
+4. Download NLTK data (if needed):
 ```python
 import nltk
 nltk.download('stopwords')
@@ -126,10 +128,25 @@ nltk.download('wordnet')
 nltk.download('punkt')
 ```
 
-4. Open Jupyter Notebook and run the tasks:
+5. Open Jupyter Notebook and run the tasks:
 ```bash
 jupyter notebook
 ```
+
+---
+
+## 📊 Datasets
+
+Due to GitHub file size limits, some datasets need to be downloaded separately:
+
+| Task | Dataset | Download Link |
+|------|---------|---------------|
+| Task 1 | Movie Genre Dataset | [Kaggle - Genre Classification Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb) |
+| Task 2 | Credit Card Fraud | [Kaggle - Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection) |
+| Task 3 | Customer Churn | Included in repo (`Churn_Modelling.csv`) |
+| Task 4 | SMS Spam | Included in repo (`spam.csv`) |
+
+> **Note:** After downloading, place the dataset files in the root folder of the project.
 
 ---
 
